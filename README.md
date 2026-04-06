@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toufique Elahi Tonmoy</h1>
 <h3 align="center">I am a dedicated Software Quality Assurance professional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mte-tonmoy&label=Profile%20views&color=0e75b6&style=flat" alt="mte-tonmoy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mte-tonmoy" alt="mte-tonmoy" /></a> </p>
-
 <h3 align="left">About Me</h3>
 <img src="Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
