@@ -49,10 +49,6 @@
 </p>
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mte-tonmoy&show_icons=true&locale=en" alt="mte-tonmoy" /></p>
-
 <div align="left">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>  
